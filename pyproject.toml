@@ -1,6 +1,6 @@
 [project]
 name = "hungarian-assignment-algorithm-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Optimal assignment between two sets using the Hungarian algorithm"
 requires-python = ">=3.10"
 dependencies = []
